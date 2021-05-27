@@ -11,3 +11,6 @@ Tālāk programma prasa lai ievadiet samaksas summu, un vai vēlaties čeku. Ja 
 ## 📝Uzdevumu saraksts📝
 
 * Nokopēt programmas kodu: [Kods](https://failiem.lv/u/q2x4rznfg)
+* Ielīmēt kodu programmēšanas programmatūrā
+* Sākt (Run) kodu
+* Lasīt un sekot līdzi visam kas rakstīts un pēc izvēles aizpildīt programmu
