@@ -2,4 +2,4 @@
 
 Programmas kods, kurā var izvēlēties četras opcijas un "pasūtit" picu ar citam uzkodam un dzēriniem.
 
-[Attēls](https://lh3.googleusercontent.com/QaozMBXnsty0DSmDI2v0_UpWE74yzK-3lUrtPp3h9OuxopKvrQqSiCQlV83GjwwNlaUO=s130)
+[Attēls](https://lh3.googleusercontent.com/LOSEu_vyJAHeN5mGmvJZrAifDd0wb8Ka16J8PrUDRrE1FjgO8f-pLscvzw92KfM-kdKd-Q=s156)
