@@ -10,3 +10,4 @@ Tālāk programma prasa lai ievadiet samaksas summu, un vai vēlaties čeku. Ja 
 
 ## 📝Uzdevumu saraksts📝
 
+* Nokopēt
