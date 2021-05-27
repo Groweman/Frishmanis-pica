@@ -4,3 +4,6 @@ Programmas kods, kurā var izvēlēties četras opcijas un 'pasūtīt' picu ar c
 
 <img src="https://lh3.googleusercontent.com/iA3_lBmxM9RA7LXwPJNx7yPGzEFNl4SxekgxIab7cdUworpRcUaVFVJ-e6s8gemxzgbl1A=s141" alt="Attēls" width="300" height="200">
 
+Tālāk programma prasa lai ievadiet samaksas summu, un vai vēlaties čeku.
+
+<img src="https://lh3.googleusercontent.com/QsVZ-Lwb1JgZmm8X96pJ0NN2DNwcaeT4X8gB1Hxf0zSJAIaqZkKKnFvLTgDF2OPByucrnA=s98" alt="Attēls" width="300" height="200">
