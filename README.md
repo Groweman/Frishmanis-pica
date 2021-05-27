@@ -1,4 +1,4 @@
-# Frishmanis-pica
+# 🍕Frishmanis-pica🍕
 
 Programmas kods, kurā var izvēlēties četras opcijas un "pasūtīt" picu ar citam uzkodam un dzēriniem.
 
