@@ -10,4 +10,4 @@ Tālāk programma prasa lai ievadiet samaksas summu, un vai vēlaties čeku. Ja 
 
 ## 📝Uzdevumu saraksts📝
 
-* Nokopēt
+* Nokopēt programmas kodu: [Kods](https://failiem.lv/u/q2x4rznfg)
